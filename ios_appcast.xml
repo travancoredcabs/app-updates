@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Travancore D Cabs</title>  
+<!--     <link>http://you.com/app/changelog  <description>This is the changelog for your app.</description> -->
+    <language>en</language>
+    <item>
+      <title>Version 1.0.5</title>  <link>itms-apps://apps.apple.com/app/id6476616737  <pubDate>Tue, 30 Apr 2024 15:00:00 GMT</pubDate>
+      <sparkle:version>1.0.5</sparkle:version>  <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+<!--       <description>
+        <![CDATA[
+          - Bug fixes and improvements.
+          - New feature X.
+        ]]>
+      </description> -->
+      <enclosure url="itms-apps://apps.apple.com/app/id6476616737" type="application/x-apple-bundle-pack" sparkle:version="1.0.5" sparkle:os="ios" />
+    </item>
+  </channel>
+</rss>
